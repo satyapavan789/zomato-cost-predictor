@@ -12,7 +12,7 @@ st.write("Predict approximate cost for two people")
 ALL_CUISINES = [
     "Bakery", "Beverages", "Cafe", "Chinese", "Continental",
     "Desserts", "Fast Food", "Italian", "North Indian",
-    "Pizza", "Seafood", "Street Food"
+    "Pizza", "Seafood", "Street Food","South Indian", "Burger", "Biryani"
 ]
 
 LOCATIONS = [
