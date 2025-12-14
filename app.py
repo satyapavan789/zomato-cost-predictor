@@ -30,7 +30,7 @@ rate = st.slider("Rating", min_value=1.0, max_value=5.0, value=4.0, step=0.1)
 popularity_score = st.slider("Popularity Score", 0.0, 1.0, 0.5)
 
 selected_cuisines = st.multiselect("Select Cuisines", ALL_CUISINES)
-num_cuisines = st.number_input("Number of Cuisines", min_value=1, value=max(1,len(selected_cuisines))
+num_cuisines = st.number_input("Number of Cuisines", min_value=1, value=max(1,len(selected_cuisines)))
 
 location = st.selectbox("Location", LOCATIONS)
 rest_type = st.selectbox("Restaurant Type", REST_TYPES)
