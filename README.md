@@ -1,4 +1,4 @@
- Zomato Restaurant Cost Prediction
+Zomato Restaurant Cost Prediction (End-to-End Machine Learning Project)
 
 Live Demo:
 https://zomato-cost-predictor-kdnax3v93ugz56u5sdiaun.streamlit.app/
